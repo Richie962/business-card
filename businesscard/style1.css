@@ -1,0 +1,25 @@
+body{
+	margin: 20px;
+	font-family: verdona, Geneva, Tahoma, sans-serif;
+}
+
+.avatar{
+	width: 150px;
+}
+
+.card{
+	width: 400px;
+	margin: 0 auto;
+	padding: 20px; 
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	border-bottom: 4px solid #d8cefe;
+	background: #ddebf8;
+	color: #2b2839;
+
+}
+
+.dotted{
+	border: 4px dotted blue; /* add border around the .card variable*/
+}
